@@ -30,8 +30,6 @@ This guide covers the process of filtering user listings.
 
 ![updating_user_details Step 5](/img/dealersetu/updating_user_details/step5.png)
 
-NOW YOU CAN ENTER THE EMPLOYEE ID TOO WHILE CREATING USERS.
-
 ### Step 6
 
 ![updating_user_details Step 6](/img/dealersetu/updating_user_details/step6.png)

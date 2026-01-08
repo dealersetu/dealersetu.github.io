@@ -30,8 +30,6 @@ This guide covers the process of Resetting User Password.
 
 ![resetting_user_password Step 5](/img/dealersetu/resetting_user_password/step5.png)
 
-NOW YOU CAN ENTER THE EMPLOYEE ID TOO WHILE CREATING USERS.
-
 ### Step 6
 
 ![resetting_user_password Step 6](/img/dealersetu/resetting_user_password/step6.png)
