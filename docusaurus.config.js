@@ -108,7 +108,7 @@ const config = {
               },
               {
                 label: "User Management",
-                to: "/docs/dealersetu-sop/user-management/index",
+                to: "/docs/dealersetu-sop/user-management/",
               },
             ],
           },
