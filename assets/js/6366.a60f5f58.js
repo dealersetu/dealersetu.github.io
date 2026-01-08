@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdealersetu_doc=globalThis.webpackChunkdealersetu_doc||[]).push([[6366],{6366(e,c,a){a.d(c,{createArchitectureServices:()=>r.S});var r=a(8980);a(7960)}}]);
