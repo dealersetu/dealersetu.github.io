@@ -65,6 +65,17 @@ const config = {
 
   themes: ["@docusaurus/theme-mermaid"],
 
+  plugins: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        // Options for the search plugin
+        hashed: true,
+        language: ["en"],
+      },
+    ],
+  ],
+
   markdown: {
     mermaid: true,
   },
@@ -88,6 +99,11 @@ const config = {
             sidebarId: "tutorialSidebar",
             position: "left",
             label: "Documentation",
+          },
+          {
+            href: "https://dealersetu.github.io/docs/dealersetu-sop/intro/",
+            label: "Github",
+            position: "right",
           },
         ],
       },
