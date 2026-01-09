@@ -24,7 +24,6 @@ const config = {
   baseUrl: "/",
   organizationName: "dealersetu", // Usually your GitHub org/user name.
   projectName: "dealersetu-doc", // Usually your repo name.
-
   onBrokenLinks: "throw",
 
   // Even if you don't use internationalization, you can use this field to set
@@ -85,7 +84,9 @@ const config = {
     ({
       image: "img/docusaurus-social-card.jpg",
       colorMode: {
-        respectPrefersColorScheme: true,
+        defaultMode: "dark",
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
       navbar: {
         title: "DealerSetu SOP",
@@ -101,8 +102,8 @@ const config = {
             label: "Documentation",
           },
           {
-            href: "https://dealersetu.github.io/docs/dealersetu-sop/intro/",
-            label: "Github",
+            href: "https://dealersetu.com",
+            label: "Website",
             position: "right",
           },
         ],
