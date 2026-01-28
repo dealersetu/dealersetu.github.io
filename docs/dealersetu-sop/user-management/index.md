@@ -123,3 +123,9 @@ Download user data in Excel format for reporting and analysis.
 ### Clubbing Roles
 
 Assign multiple roles to users for flexible access control and permissions management.
+
+## Points to Remember
+
+1. The roles **RECEPTION**, **CRE**, and **BOOKING COORDINATOR** can be assigned to the **same user**.
+2. If a user does not have a supervisor (for example, **Gatekeeper** or **PDI**), selecting **NO SUPERVISION** is **mandatory**.
+

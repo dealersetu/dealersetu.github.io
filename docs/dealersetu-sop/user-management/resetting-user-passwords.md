@@ -4,38 +4,42 @@ sidebar_position: 4
 
 # Resetting User Password
 
-This guide covers the process of Resetting User Password.
+This guide explains how a **Super Admin** can **reset a user’s password** in the **DealerSetu** system.
 
 ## Overview
 
+Regularly **resetting passwords** is a good security practice and helps ensure **system security** in **DealerSetu**.
+
 ## Step-by-Step Process
 
-### Step 1
+### Step 1: Click on the Users Menu
 
-![resetting_user_password Step 1](/img/dealersetu/resetting_user_password/step1.png)
+![Resetting user password Step 1](/img/dealersetu/superAdmin/resetting_user_password/step1.png)
 
-### Step 2
+Navigate to the **Users** section.
 
-![resetting_user_password Step 2](/img/dealersetu/resetting_user_password/step2.png)
+---
 
-### Step 3
+### Step 2: Click on the Edit Icon
 
-![resetting_user_password Step 3](/img/dealersetu/resetting_user_password/step3.png)
+![Resetting user password Step 2](/img/dealersetu/superAdmin/resetting_user_password/step2.png)
 
-### Step 4
+Select the user and click the **Edit** icon.
 
-![resetting_user_password Step 4](/img/dealersetu/resetting_user_password/step4.png)
+---
 
-### Step 5
+### Step 3: Update the Password
 
-![resetting_user_password Step 5](/img/dealersetu/resetting_user_password/step5.png)
+![Resetting user password Step 3](/img/dealersetu/superAdmin/resetting_user_password/step3.png)
 
-### Step 6
+Enter the **new password** for the user.
 
-![resetting_user_password Step 6](/img/dealersetu/resetting_user_password/step6.png)
+---
 
-### Step 7
+### Step 4: Click on Save
 
-![resetting_user_password Step 7](/img/dealersetu/resetting_user_password/step7.png)
+![Resetting user password Step 4](/img/dealersetu/superAdmin/resetting_user_password/step4.png)
+
+Click **Save** to apply the password change.
 
 ---

@@ -4,42 +4,52 @@ sidebar_position: 5
 
 # Filtering User Listings
 
-This guide covers the process of filtering user listings.
+This guide explains how to **filter user listings** to quickly find users in the **DealerSetu** system.
 
----
+## Overview
+
+To **find users quickly** in **DealerSetu**, filters are provided.  
+Below is the **step-by-step process** for filtering user listings.
 
 ## Step-by-Step Process
 
-### Step 1
+### Step 1: Click on an Attribute
 
-![updating_user_details Step 1](/img/dealersetu/updating_user_details/step1.png)
+![Filtering User Listings Step 1](/img/dealersetu/superAdmin/filtering_user_listings/step1.png)
 
-### Step 2
+Click on the **attribute** you want to filter by.
 
-![updating_user_details Step 2](/img/dealersetu/updating_user_details/step2.png)
+---
 
-### Step 3
+### Step 2: Attribute Dropdown Appears
 
-![updating_user_details Step 3](/img/dealersetu/updating_user_details/step3.png)
+![Filtering User Listings Step 2](/img/dealersetu/superAdmin/filtering_user_listings/step3.png)
 
-### Step 4
+A **dropdown list of all available attributes** will appear.  
+Select the attribute according to your requirement.
 
-![updating_user_details Step 4](/img/dealersetu/updating_user_details/step4.png)
+---
 
-### Step 5
+### Step 3: Enter the Value to Search
 
-![updating_user_details Step 5](/img/dealersetu/updating_user_details/step5.png)
+![Filtering User Listings Step 3](/img/dealersetu/superAdmin/filtering_user_listings/step4.png)
 
-### Step 6
+Enter the **value** you want to search for.
 
-![updating_user_details Step 6](/img/dealersetu/updating_user_details/step6.png)
+---
 
-### Step 7
+### Step 4: Pick Role
 
-![updating_user_details Step 7](/img/dealersetu/updating_user_details/step7.png)
+![Filtering User Listings Step 4](/img/dealersetu/superAdmin/filtering_user_listings/step5.png)
 
-### Step 8
+Select the **Role** filter.
 
-![updating_user_details Step 8](/img/dealersetu/updating_user_details/step8.png)
+---
+
+### Step 5: Enter the Role Name
+
+![Filtering User Listings Step 5](/img/dealersetu/superAdmin/filtering_user_listings/step6.png)
+
+Enter the **role name** you want to filter users by.
 
 ---
