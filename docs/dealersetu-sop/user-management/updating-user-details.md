@@ -4,44 +4,56 @@ sidebar_position: 3
 
 # Updating User Details
 
-This guide covers the process of updating user details.
+This guide explains how a **Super Admin** can **update user details** in the **DealerSetu** system.
 
 ## Overview
 
+Use this process to **update user details** in **DealerSetu**.
+
 ## Step-by-Step Process
 
-### Step 1
+### Step 1: Click on the Edit Icon
 
-![updating_user_details Step 1](/img/dealersetu/updating_user_details/step1.png)
+![Updating user details Step 1](/img/dealersetu/superAdmin/updating_user_details/step1.png)
 
-### Step 2
+---
 
-![updating_user_details Step 2](/img/dealersetu/updating_user_details/step2.png)
+### Step 2: Editable Form Opens
 
-### Step 3
+![Updating user details Step 2](/img/dealersetu/superAdmin/updating_user_details/step2.png)
 
-![updating_user_details Step 3](/img/dealersetu/updating_user_details/step3.png)
+An **editable form** will open with the user’s current details.
 
-### Step 4
+---
 
-![updating_user_details Step 4](/img/dealersetu/updating_user_details/step4.png)
+### Step 3: Make the Required Changes
 
-### Step 5
+![Updating user details Step 3](/img/dealersetu/superAdmin/updating_user_details/step3.png)
 
-![updating_user_details Step 5](/img/dealersetu/updating_user_details/step5.png)
+Update the necessary **user information**.
 
-NOW YOU CAN ENTER THE EMPLOYEE ID TOO WHILE CREATING USERS.
+---
 
-### Step 6
+### Step 4: Edit Multiple Fields
 
-![updating_user_details Step 6](/img/dealersetu/updating_user_details/step6.png)
+![Updating user details Step 4](/img/dealersetu/superAdmin/updating_user_details/step4.png)
 
-### Step 7
+You can **edit multiple fields** before saving.
 
-![updating_user_details Step 7](/img/dealersetu/updating_user_details/step7.png)
+---
 
-### Step 8
+### Step 5: Add Description (Optional)
 
-![updating_user_details Step 8](/img/dealersetu/updating_user_details/step8.png)
+![Updating user details Step 5](/img/dealersetu/superAdmin/updating_user_details/step5.png)
+
+Add a **description** if required.
+
+---
+
+### Step 6: Click on Save
+
+![Updating user details Step 6](/img/dealersetu/superAdmin/updating_user_details/step6.png)
+
+Details will be updated instantly.
 
 ---

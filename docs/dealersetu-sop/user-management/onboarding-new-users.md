@@ -2,82 +2,116 @@
 sidebar_position: 2
 ---
 
-# Onboarding new users
+# Onboarding New Users
 
-This guide covers the process of onboarding new users to the DealerSetu system.
+This guide explains how a **Super Admin** can **onboard new users** into the **DealerSetu** system.
 
 ## Overview
 
-The onboarding process ensures new users are properly set up with the necessary access, permissions, and training to use DealerSetu effectively.
+The onboarding process ensures that new users are properly set up with the required **access**, **roles**, **permissions**, and **organizational details** to use **DealerSetu** effectively.
 
 ## Step-by-Step Process
 
-### Step 1
+### Step 1: Onboarding a New User
 
-![Onboarding Step 1](/img/dealersetu/onboarding/step1.png)
+![Onboarding Step 1](/img/dealersetu/superAdmin/onboarding/step1.png)
 
-### Step 2
+---
 
-![Onboarding Step 2](/img/dealersetu/onboarding/step2.png)
+### Step 2: Click on the Users Tab
 
-### Step 3
+![Onboarding Step 2](/img/dealersetu/superAdmin/onboarding/step2.png)
 
-![Onboarding Step 3](/img/dealersetu/onboarding/step3.png)
+---
 
-### Step 4
+### Step 3: Click on Create New
 
-![Onboarding Step 4](/img/dealersetu/onboarding/step4.png)
+![Onboarding Step 3](/img/dealersetu/superAdmin/onboarding/step3.png)
 
-### Step 5
+---
 
-![Onboarding Step 5](/img/dealersetu/onboarding/step5.png)
+### Step 4: Enter Full Name
 
-### Step 6
+![Onboarding Step 4](/img/dealersetu/superAdmin/onboarding/step4.png)
 
-![Onboarding Step 6](/img/dealersetu/onboarding/step6.png)
+Enter the user’s **full name**.
 
-### Step 7
+---
 
-![Onboarding Step 7](/img/dealersetu/onboarding/step7.png)
+### Step 5: Enter Email Address
 
-### Step 8
+![Onboarding Step 5](/img/dealersetu/superAdmin/onboarding/step5.png)
 
-![Onboarding Step 8](/img/dealersetu/onboarding/step8.png)
+Provide the user’s **email address**.
 
-### Step 9
+---
 
-![Onboarding Step 9](/img/dealersetu/onboarding/step9.png)
+### Step 6: Enter Employee ID
 
-### Step 10
+![Onboarding Step 6](/img/dealersetu/superAdmin/onboarding/step6.png)
 
-![Onboarding Step 10](/img/dealersetu/onboarding/step10.png)
+Enter the **employee ID** for the user.
 
-### Step 11
+---
 
-![Onboarding Step 11](/img/dealersetu/onboarding/step11.png)
+### Step 7: Open the Roles Dropdown
 
-### Step 12
+![Onboarding Step 7](/img/dealersetu/superAdmin/onboarding/step7.png)
 
-![Onboarding Step 12](/img/dealersetu/onboarding/step12.png)
+---
 
-### Step 13
+### Step 8: Select Roles
 
-![Onboarding Step 13](/img/dealersetu/onboarding/step13.png)
+![Onboarding Step 8](/img/dealersetu/superAdmin/onboarding/step8.png)
 
-### Step 14
+Assign the appropriate **roles** to the user.
 
-![Onboarding Step 14](/img/dealersetu/onboarding/step14.png)
+---
 
-### Step 15
+### Step 9: Select Department
 
-![Onboarding Step 15](/img/dealersetu/onboarding/step15.png)
+![Onboarding Step 9](/img/dealersetu/superAdmin/onboarding/step9.png)
 
-### Step 16
+Choose the user’s **department**.
 
-![Onboarding Step 16](/img/dealersetu/onboarding/step16.png)
+---
 
-### Step 17
+### Step 10: Select Supervisor
 
-![Onboarding Step 17](/img/dealersetu/onboarding/step17.png)
+![Onboarding Step 10](/img/dealersetu/superAdmin/onboarding/step10.png)
+
+Assign a **supervisor**, if applicable.
+
+---
+
+### Step 11: Select No Supervisor (If Applicable)
+
+![Onboarding Step 11](/img/dealersetu/superAdmin/onboarding/step11.png)
+
+If the assigned role does not require a supervisor, select **No Supervisor**.
+
+---
+
+### Step 12: Assign Location
+
+![Onboarding Step 12](/img/dealersetu/superAdmin/onboarding/step12.png)
+
+Assign the user’s **location**.
+
+---
+
+### Step 13: Select Segment
+
+![Onboarding Step 13](/img/dealersetu/superAdmin/onboarding/step13.png)
+
+Choose the appropriate **business segment**.
+
+---
+
+### Step 14: Click on Save
+
+![Onboarding Step 14](/img/dealersetu/superAdmin/onboarding/step14.png)
+
+Click **Save** to complete the **user onboarding** process.
 
 ---

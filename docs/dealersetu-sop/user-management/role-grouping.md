@@ -2,28 +2,44 @@
 sidebar_position: 7
 ---
 
-# Role grouping for making business process agile
+# Role Grouping for Agile Business Processes
 
-This guide covers the process of Role grouping for making business process agile.
+This guide explains the process of **role grouping** to make business workflows more **agile** in the **DealerSetu** system.
 
 ## Overview
 
+You can assign **multiple roles** to a user. These roles define **what actions and modules** the user can access in **DealerSetu**.
+
 ## Step-by-Step Process
 
-### Step 1
+### Step 1: Click on the Edit Icon
 
-![role_grouping Step 1](/img/dealersetu/role_grouping/step1.png)
+![Role grouping Step 1](/img/dealersetu/superAdmin/role_grouping/step1.png)
 
-### Step 2
+Locate the user and click the **Edit** icon.
 
-![role_grouping Step 2](/img/dealersetu/role_grouping/step2.png)
+---
 
-### Step 3
+### Step 2: Click on the Roles Dropdown
 
-![role_grouping Step 3](/img/dealersetu/role_grouping/step3.png)
+![Role grouping Step 2](/img/dealersetu/superAdmin/role_grouping/step2.png)
 
-### Step 4
+The **list of available roles** will appear.
 
-![role_grouping Step 4](/img/dealersetu/role_grouping/step4.png)
+---
+
+### Step 3: Choose the Roles
+
+![Role grouping Step 3](/img/dealersetu/superAdmin/role_grouping/step3.png)
+
+Select the **roles** you want to assign to the user.
+
+---
+
+### Step 4: Click on Save
+
+![Role grouping Step 4](/img/dealersetu/superAdmin/role_grouping/step4.png)
+
+Click **Save** to apply the role changes.
 
 ---
